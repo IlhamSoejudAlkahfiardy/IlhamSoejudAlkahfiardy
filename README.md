@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, i'm Alkahfiardy, a Web Fullstack Developer 🧑‍💻, im currently spesialized in Front End Developer that makes fun and interactive UI/UX 
+Hi, i'm Alkahfiardy, a Web Front End Developer & Fullstack Laravel Developer 🧑‍💻, im currently spesialized in React JS that makes fun and interactive UI/UX 
 
 
 ## 🌐 Socials:
